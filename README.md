@@ -7,31 +7,7 @@
 
 I'm passionate about software development and continuously improving my programming skills by building projects and learning modern technologies.
 
-Currently focusing on:
-- C++
-- Data Structures & Algorithms
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
 
----
-
-## Tech Stack
-
-### Languages
-- C++ 
-- HTML
-- CSS
-- JavaScript
-
-### Tools
-- Git
-- GitHub
-- Visual Studio Code
-- Linkdeln
-
----
 
 ## Current Goals
 
