@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi there, I'm Aditya  👋
 
-<!--
-**staticflux-adi/staticflux-adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Information Technology Student
+
+I'm passionate about software development and continuously improving my programming skills by building projects and learning modern technologies.
+
+Currently focusing on:
+- C++
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## Tech Stack
+
+### Languages
+- C++ 
+- HTML
+- CSS
+- JavaScript
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+- Linkdeln
+
+---
+
+## Current Goals
+
+- Master C++ fundamentals
+- Solve Data Structures & Algorithms problems
+- Contribute to open source
+- Strengthen problem-solving skills
+
+---
+
+
+
+## Connect
+
+GitHub: https://github.com/staticflux-adi
+E-mail: deshmukhad2008@gmail.com
+
+---
+
+> "Push Pass Your Limits!."
