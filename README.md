@@ -46,7 +46,7 @@ Currently focusing on:
 
 ## Connect
 
-GitHub: https://github.com/staticflux-adi
+GitHub: https://github.com/staticflux-adi <br>
 E-mail: deshmukhad2008@gmail.com
 
 ---
