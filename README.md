@@ -9,12 +9,6 @@ I'm passionate about software development and continuously improving my programm
 
 
 
-## Current Goals
-
-- Master C++ fundamentals
-- Solve Data Structures & Algorithms problems
-- Contribute to open source
-- Strengthen problem-solving skills
 
 ---
 
