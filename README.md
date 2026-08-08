@@ -16,8 +16,8 @@ I'm passionate about software development and continuously improving my programm
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=staticflux-adi&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false) <align ="center"> <br/>
-![](https://streak-stats.demolab.com/?user=staticflux-adi&theme=solarized-dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=staticflux-adi&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false)<br>
+![](https://streak-stats.demolab.com/?user=staticflux-adi&theme=solarized-dark&hide_border=false)<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=staticflux-adi&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
